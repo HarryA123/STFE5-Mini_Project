@@ -1,7 +1,7 @@
 import Main from "./components/Main";
 import Search from "./components/Search";
 import Clip from "./components/Clip";
-import  NotFound  from "./components/NotFound";
+import NotFound from "./components/NotFound";
 import { BrowserRouter, Route, Routes } from "react-router-dom";
 import { useSelector } from "react-redux";
 

@@ -35,7 +35,7 @@ const NotFound = () => {
       <NotFoundDiv>
         <Title>404</Title>
         <Text>
-          The page you tryung to reach does not exist, or has been moved.
+          The page you trying to reach does not exist, or has been moved.
           <br />
           Please enter the correct url
         </Text>
