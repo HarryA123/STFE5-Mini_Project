@@ -6,7 +6,7 @@ import { BrowserRouter, Route, Routes } from "react-router-dom";
 import { useSelector } from "react-redux";
 
 function App() {
-  const history = useSelector((state) => state.keywords);
+  const history = useSelector(state => state.keywords);
   return (
     <>
       <BrowserRouter>
